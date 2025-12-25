@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/krmilniKonstrukti" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/metode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/razno" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/razredi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/razredi/postaPismo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tabele" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/dedovanje" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/dedovanje/geometrijskaTelesa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/razredi/postaPismo2" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/src/razredi/postaPismo" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
