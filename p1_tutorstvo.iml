@@ -15,6 +15,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/razredi/postaPismo2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/razredi/datum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/razredi/ulomek" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/razredi/filozofi" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/razredi/postaPismo" />
     </content>
     <orderEntry type="inheritedJdk" />
