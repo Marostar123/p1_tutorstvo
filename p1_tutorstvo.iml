@@ -16,7 +16,10 @@
       <sourceFolder url="file://$MODULE_DIR$/src/razredi/datum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/razredi/ulomek" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/razredi/filozofi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/dedovanje/geometrijskaTelesa2" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/src/dedovanje/geometrijskaTelesa" />
       <excludeFolder url="file://$MODULE_DIR$/src/razredi/postaPismo" />
+      <excludeFolder url="file://$MODULE_DIR$/stariIzpiti" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
